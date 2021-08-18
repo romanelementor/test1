@@ -1,2 +1,2 @@
-# test1
+# Welcome BI team
 Repository for study
