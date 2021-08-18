@@ -1,2 +1,2 @@
 # test1
-testing repository
+Repository for study
